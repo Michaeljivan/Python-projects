@@ -51,38 +51,38 @@ def gameplay():
             overs +=.4
         if(round(overs,2).is_integer()):
             print("starting over ", round(overs))
-        # time.sleep(2)
+        time.sleep(2)
         print(round(overs,2))
         this_over.append(play())
         overs += 0.1
-        # time.sleep(2)
+        time.sleep(2)
         print(round(overs,2))
         this_over.append(play())
         overs += 0.1
-        # time.sleep(2)
+        time.sleep(2)
         print(round(overs,2))
         this_over.append(play())
         overs += 0.1
-        # time.sleep(2)
+        time.sleep(2)
         print(round(overs,2))
         this_over.append(play())
         overs += 0.1
-        # time.sleep(2)
+        time.sleep(2)
         print(round(overs,2))
         this_over.append(play())
         overs += 0.1
-        # time.sleep(2)
+        time.sleep(2)
         print(round(overs,2))
         this_over.append(play())
         overs += 0.1
-        # time.sleep(2)
+        time.sleep(2)
         print("end of over", this_over)
-        # time.sleep(1.5)
+        time.sleep(1.5)
         print("1's:", this_over.count(1), "|", "2's:", this_over.count(2), "|",  "3's:", this_over.count(3), "|", "4's:", this_over.count(4), "|", "6's:", this_over.count(6))
         total = sum(this_over)
         print("total runs", total)
         accumulate(total)
-        # time.sleep(1.3)
+        time.sleep(1.3)
 
 gameplay()
 team_one_results = runs
@@ -97,9 +97,9 @@ team_two_results = runs
 print("Team two! ", team_two_results)
 
 
-# for x in range(8):
-#     time.sleep(1)
-#     print("# Loading final  results....")
+for x in range(8):
+    time.sleep(1)
+    print("# Loading final  results....")
 
 
 print(teams[team_one] , " " , team_one_results, teams[team_two] , " " , team_two_results)
