@@ -66,3 +66,35 @@ Chennai Super Kings - 288 - Royal Challengers Bangalore - 300
 Royal Challengers Bangalore - 320 - Sunrisers Hyderabad - 315 
 Chennai Super Kings - 310 - Sunrisers Hyderabad - 325 
 Sunrisers Hyderabad - 340 - Rajasthan Royals - 341 
+Rajasthan Royals - 11 - Kings XI Punjab - 11 
+Sunrisers Hyderabad - 18 - Kings XI Punjab - 16 
+Kolkata Knight Riders - 18 - Delhi Capitals - 10 
+Sunrisers Hyderabad - 11 - Mumbai Indians - 6 
+Kolkata Knight Riders - 18 - Chennai Super Kings - 23 
+Sunrisers Hyderabad - 18 - Rajasthan Royals - 21 
+Chennai Super Kings - 8 - Rajasthan Royals - 12 
+Delhi Capitals - 13 - Chennai Super Kings - 11 
+Kolkata Knight Riders - 10 - Sunrisers Hyderabad - 10 
+Mumbai Indians - 10 - Delhi Capitals - 8 
+Rajasthan Royals - 21 - Chennai Super Kings - 8 
+Sunrisers Hyderabad - 24 - Mumbai Indians - 5 
+Rajasthan Royals - 9 - Kings XI Punjab - 14 
+Mumbai Indians - 9 - Sunrisers Hyderabad - 8 
+Delhi Capitals - 14 - Kings XI Punjab - 15 
+Kings XI Punjab - 8 - Rajasthan Royals - 17 
+Chennai Super Kings - 17 - Mumbai Indians - 17 
+Mumbai Indians - 8 - Kolkata Knight Riders - 11 
+Chennai Super Kings - 13 - Rajasthan Royals - 16 
+Delhi Capitals - 15 - Sunrisers Hyderabad - 15 
+Mumbai Indians - 262 - Kings XI Punjab - 296 
+Kings XI Punjab - 10 - Delhi Capitals - 8 
+Kolkata Knight Riders - 20 - Chennai Super Kings - 14 
+Rajasthan Royals - 13 - Mumbai Indians - 8 
+Kolkata Knight Riders - 12 - Chennai Super Kings - 13 
+Kings XI Punjab - 13 - Rajasthan Royals - 13 
+Kings XI Punjab - 29 - Chennai Super Kings - 24 
+Delhi Capitals - 13 - Rajasthan Royals - 26 
+Mumbai Indians - 29 - Chennai Super Kings - 51 
+Kolkata Knight Riders - 35 - Sunrisers Hyderabad - 31 
+Kolkata Knight Riders - 36 - Kolkata Knight Riders - 26 
+Mumbai Indians - 39 - Mumbai Indians - 20 
